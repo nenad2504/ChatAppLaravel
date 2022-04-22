@@ -26,5 +26,5 @@
     "dependencies": {
         "laravel-echo": "^1.8.0",
         "pusher-js": "^6.0.3"
+        "minimist": ">=1.2.6"
     }
-}
